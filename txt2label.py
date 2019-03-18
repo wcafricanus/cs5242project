@@ -1,8 +1,9 @@
 ## converting txt to labels
+# Run this file in the directory of txt files
 import os
 import glob
 import pandas as pd
-#import numpy as np
+import numpy as np
 
 #labels = np.ndarray
 FN = pd.DataFrame()
